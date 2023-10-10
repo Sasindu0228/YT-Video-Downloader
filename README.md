@@ -25,6 +25,10 @@ pkg install git
 ```bash
 pkg install python
 ```
+## Above comand use only Linux users
+```bash
+pip install pytube
+```
 Above command use only Linux users.
 ```bash
 cd YT-Video-Downloader
