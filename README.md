@@ -1,16 +1,35 @@
-<h1>You can Any Youtube Video Download Using This Tool</h1>
-<h3>supported os</h3>
-        Linux <br>
-        Windows <br>
-        
-<h4>Commands</h4>
-        
-> pkg update && pkg upgrade
+# YT-Video-Downloader
 
-> pkg install git
 
-> pkg install python
+A brief description of my Python project.
 
-> cd YT-Video-Downloader
+## Table of Contents
 
-> python YT-DOWN.py
+- [Project Name](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## Description
+You can do this on Windows and Linux operating systems.
+## Installation
+```bash
+pkg update && pkg upgrade
+```
+```bash
+pkg install git
+```
+```bash
+pkg install python
+```
+Above command use only Linux users.
+```bash
+cd YT-Video-Downloader
+```
+```bash
+python YT-DOWN.py
+```
+
