@@ -28,7 +28,7 @@ pkg install python
 ```
 ## This command for run the tool
 ```bash
-pip install -r requirments
+pip install -r requirments.txt
 ```
 ```bash
 cd YT-Video-Downloader
