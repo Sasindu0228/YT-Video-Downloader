@@ -14,8 +14,9 @@ A brief description of my Python project.
   - [License](#license)
 
 ## Description
-You can do this on Windows and Linux operating systems.
-## Installation
+YouTube Video Downloader is a Python project that enables users to download videos from YouTube with high resolution. This tool is compatible with both Windows and Linux operating systems.
+
+## Installation for Linux
 ```bash
 pkg update && pkg upgrade
 ```
@@ -25,11 +26,10 @@ pkg install git
 ```bash
 pkg install python
 ```
-## Above comand use only Linux users
+## This command for run the tool
 ```bash
-pip install pytube
+pip install -r requirments
 ```
-Above command use only Linux users.
 ```bash
 cd YT-Video-Downloader
 ```
